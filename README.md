@@ -1,5 +1,5 @@
 # Zomato-Delivery-partner-analysis
-This project takes a closer look at Zomato’s delivery operations to find useful insights about how well partners are performing and what trends can help make smarter business decisions.
+This project analyzes Zomato’s delivery operations to uncover meaningful insights about delivery partner performance, customer preferences, and business trends. By exploring data related to order details, partner efficiency, and payment preferences, the goal is to identify patterns that can improve delivery times, boost customer satisfaction, and optimize operational efficiency.
 
 # Key Objectives
 
